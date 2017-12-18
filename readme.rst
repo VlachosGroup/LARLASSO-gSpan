@@ -5,7 +5,7 @@ Semi-supervised learning method for graph selection.
 
 Publications
 -------------
-* G.H. Gu, P. Plechac, D.G. Vlachos, "Estimation of Thermochemistry via Graph Theory and Machine Learning Methods" (In preparation)
+G.H. Gu, P. Plechac, D.G. Vlachos, Estimation of Thermochemistry via Graph Theory and Machine Learning Methods, React. Chem. Eng. Submitted
 
 Developers
 -----------
